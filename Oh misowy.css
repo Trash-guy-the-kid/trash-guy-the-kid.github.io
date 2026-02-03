@@ -1,0 +1,28 @@
+body{ background-color :aqua;}
+h1{ color :yellow;}
+
+nav a{
+    text-shadow: 4px 4px 5px crimson;
+    text-decoration: none;
+    color:tomato;
+    padding: 8px 12px;
+}
+a:hover {
+ color: darkorange;
+}
+nav ul {
+    font-size: 80px;
+    list-style: none;
+    padding: 3px red;
+    margin: 0;
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+}
+ul {
+  list-style-type: none;
+  margin: 10px;
+  padding: 10px;
+  overflow: hidden;
+  background-color: #1c773a;
+}

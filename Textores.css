@@ -1,0 +1,35 @@
+body {
+ background-color: rgb(255, 251, 199);
+}
+h1 {
+ color: coral;
+}
+p { font-family: 'Papyrus';}
+h6 {
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+nav a{
+    text-shadow: 4px 4px 5px crimson;
+    text-decoration: none;
+    color:tomato;
+    padding: 8px 12px;
+}
+a:hover {
+ color: darkorange;
+}
+nav ul {
+    font-size: 80px;
+    list-style: none;
+    padding: 3px red;
+    margin: 0;
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+}
+ul {
+  list-style-type: none;
+  margin: 10px;
+  padding: 10px;
+  overflow: hidden;
+  background-color: #1c773a;
+}
